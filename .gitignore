@@ -1,5 +1,6 @@
 *.csv
 /data
+/conv
 /RawData
 /valid data
 /results
